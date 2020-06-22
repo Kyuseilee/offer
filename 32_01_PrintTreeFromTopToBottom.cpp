@@ -1,6 +1,6 @@
 #include<cstdio>
-#include<BinaryTree.h>
 #include<deque>
+#include<BinaryTree.cpp>
 
 void PrintFromTopToBottom(BinaryTreeNode* pTreeRoot)
 {
@@ -139,6 +139,6 @@ int main(int argc, char* argv[])
     Test3();
     Test4();
     Test5();
-
-   return 0;
+    
+    return 0;
 }
